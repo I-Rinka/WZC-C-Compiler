@@ -1,0 +1,7 @@
+/**
+ * WZCLLOPT
+ */
+public class WZCLLOPT {
+
+	
+}
