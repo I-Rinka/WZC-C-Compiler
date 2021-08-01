@@ -1,7 +1,11 @@
 # WZC-C-Compiler
-基于Antlr，LLVM-IR，多种目标平台可选的，带有简单优化的1.5遍C语言编译器
+基于Antlr，LLVM-IR，多种目标平台可选的，带有简单优化的2遍C语言编译器
 
 掏空clang (笑
+
+较完整的可运行代码见： https://github.com/I-Rinka/BIT-MiniCC/tree/master/src/bit/minisys/minicc/ncgen
+
+本项目待整合。
 
 模块结构: 
 
